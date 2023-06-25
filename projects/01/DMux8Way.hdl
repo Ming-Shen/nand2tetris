@@ -39,5 +39,4 @@ CHIP DMux8Way {
     And (a=in, b=self, out=f);
     And (a=in, b=selg, out=g);
     And (a=in, b=selh, out=h);
-
 }
